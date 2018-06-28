@@ -1,5 +1,4 @@
-#!/usr/bin/python
-# Creating the function
+# Declaring the function
 def init():
     while True:
         try:
