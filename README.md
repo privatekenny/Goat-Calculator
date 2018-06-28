@@ -1,4 +1,4 @@
-# Calculate profit from GOAT APP
+# Calculate sneaker profits on the GOAT application
 ## TO-DO LIST
 </br>
 1.) Create interactive HTML 
