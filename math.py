@@ -41,7 +41,7 @@ def init():
 
 # Beginning of the script
 if __name__ == "__main__":
-    print("GOAT FEE CALCULATOR BY KENNY DANG")
+    print("GOAT FEE CALCULATOR BY KENNY")
 
     # Calls the function
     init()
